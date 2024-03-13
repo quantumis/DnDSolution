@@ -1,0 +1,1 @@
+E:\DnDMobile\DnDSolution\DnDSolution.csproj;x64
